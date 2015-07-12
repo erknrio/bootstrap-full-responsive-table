@@ -1,0 +1,41 @@
+{
+  "title": "Bootstrap Full responsive Table",
+  "name": "bootstrap-full-responsive-table",
+  "description": "Full implementation of a responsive table with bootstrap.",
+  "version": "0.10",
+  "author": "erknrio (https://github.com/erknrio)",
+  "contributors": [
+    {
+      "name": "Adrián Garrido García",
+      "email": "erknrio@gmail.com"
+    }
+  ],
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "3.3.5"
+  },
+  "homepage": "https://github.com/erknrio/bootstrap-full-responsive-table",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erknrio/bootstrap-full-responsive-table"
+  },
+  "license": "MIT",
+  "i18n": [
+    "en",
+    "es"
+  ],
+  "package-i18n": {
+    "es": {
+      "description": "Implementación completa de una tabla responsive con bootstrap."
+    },
+    "en": {
+      "description": "Full implementation of a responsive table with bootstrap."
+    }
+  },
+  "keywords": [
+    "responsive table, full responsive table, table, bootstrap, bootstrap table, bootstrap responsive table, bootstrap full responsive table"
+  ],
+  "ignore": [
+    ".gitignore"
+  ]
+}
